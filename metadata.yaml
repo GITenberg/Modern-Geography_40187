@@ -1,0 +1,35 @@
+_repo: Modern-Geography_40187
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Newbigin, Marion I. (Marion Isabel)
+    alias: Newbigin, Marion Isabel
+    birthdate: 1869
+    deathdate: 1934
+    gutenberg_agent_id: '40462'
+    url: http://www.gutenberg.org/2009/agents/40462
+description: ''
+gutenberg_issued: '2012-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40187'
+  lccn: '11012725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge, No. 7
+subjects:
+- !lcc 'G'
+- !lcsh 'Geography'
+tableOfContents: The beginnings of modern geography -- Surface-relief and the process
+  of erosion -- Ice and its work -- Climate and weather -- The principles of plant
+  geography and the chief plant formations of Europe and North America -- The distribution
+  of animal life -- Cultivated plants and domesticated animals -- The races of Europe
+  and their origin -- The distribution of minerals and the localisation of industries
+  and of towns.
+title: Modern Geography
+url: http://www.gutenberg.org/ebooks/40187
