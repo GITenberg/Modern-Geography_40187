@@ -27,6 +27,7 @@ series_note: Home University Library of Modern Knowledge, No. 7
 subjects:
 - !lcc 'G'
 - !lcsh 'Geography'
+- GITenberg
 tableOfContents: The beginnings of modern geography -- Surface-relief and the process
   of erosion -- Ice and its work -- Climate and weather -- The principles of plant
   geography and the chief plant formations of Europe and North America -- The distribution
